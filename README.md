@@ -4,6 +4,8 @@ A private-match IW4x/MW2 trickshot mod menu built around bot control, trickshot 
 
 This menu was made for private match trickshotting, bot-based practice, and offline/IW4x modding fun.
 
+![Rainy's IW4x Trickshot Mod Menu main menu](screenshots/main-menu.png)
+
 ## Disclaimer
 
 Use of this mod menu in online/public matches may result in your IW4x account being banned or restricted. This menu was designed for private match trickshotting against bots and may support other players joining your private lobby. It should not be used in public matches or on servers you do not own or administer.
