@@ -103,7 +103,8 @@ bind LEFTARROW "+actionslot 3"
 
 ADS, Melee, and Use must also be bound normally in your IW4x controls.
 
-Note: The menu itself does not automatically force keyboard binds. You may need to set binds manually through the IW4x console or config.
+> [!NOTE]
+> The menu itself does not automatically force keyboard binds. You may need to set binds manually through the IW4x console or config.
 
 ## Features
 
