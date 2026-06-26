@@ -35,16 +35,40 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 6. Start a private match.
 7. Open the menu using the listed controls.
 
-## Controls
+## Menu Navigation
 
-* Open Menu: ADS + Knife
+This menu was designed primarily with controller use in mind, but keyboard/mouse players can still use it as long as the required IW4x actions are properly bound.
 
-Recommended optional binds:
+### Basic Controls
+
+| Action        | Input                        |
+| ------------- | ---------------------------- |
+| Open Menu     | ADS + Melee                  |
+| Close Menu    | ADS + Melee                  |
+| Navigate Up   | D-pad Up / `+actionslot 1`   |
+| Navigate Down | D-pad Down / `+actionslot 2` |
+| Select Option | Use                          |
+| Go Back       | Melee                        |
+
+The full on-screen menu is host-only. Other players may be able to join the private match, but the host controls the main menu.
+
+### Controller Notes
+
+Controller is the recommended way to use this menu. The menu was built around controller-style navigation, especially D-pad movement and stance-based quick binds.
+
+### Keyboard/Mouse Notes
+
+Keyboard/mouse users can use the menu, but may need to manually bind the action slot commands used for menu navigation.
+
+Example binds:
 
 ```cfg
-bind F3 "your_end_game_command_here"
-bind F5 "your_restart_command_here"
+bind UPARROW "+actionslot 1"
+bind DOWNARROW "+actionslot 2"
+bind LEFTARROW "+actionslot 3"
 ```
+
+ADS, Melee, and Use must also be bound normally in your IW4x controls.
 
 Note: The menu itself does not automatically force keyboard binds. You may need to set binds manually through the IW4x console or config.
 
@@ -69,12 +93,13 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * Weapon and camo menus
 * Wallbang/trickshot aimbot options for private use
 
-## Known Notes
+## Known Notes/Bugs
 
 * Some custom maps may not support bots correctly.
 * Some maps may crash with high bot counts.
 * If bots do not move, the map may be missing proper bot/waypoint support.
 * This menu is intended for private matches, not public cheating.
+* Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in future release.
 
 ## Credits
 
