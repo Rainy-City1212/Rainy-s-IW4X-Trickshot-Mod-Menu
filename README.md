@@ -29,15 +29,26 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 * 7-Zip, WinRAR, or another archive tool
 * Basic knowledge of where your IW4x folder is located
 
-## Installation
+Installation
 
 1. Download the latest release from the Releases section.
-2. Extract the downloaded `.zip` file.
-3. Open the extracted folder.
-4. Copy the contents of the `mod-files` folder into the correct IW4x folder.
-5. Launch IW4x.
-6. Start a private match. You should immediately see the "Welcome to Rainy's Mod Menu" text pop up on screen if installed correctly.
-7. Open the menu using the controls listed below.
+2. Extract the downloaded .zip file.
+3. Open the extracted folder, then open the mod-files folder.
+4. Copy the following items from inside mod-files:
+    * scripts
+    * scriptdata
+    * z_svr_bots.iwd
+5. Paste those items into your MW2/IW4x userraw folder.
+    Example:
+
+MW2 Folder/userraw/
+
+    [!NOTE]
+    If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder.
+6. Launch IW4x.
+7. Start a private match.
+8. If installed correctly, you should see the “Welcome to Rainy’s Mod Menu” text appear on screen.
+9. Open the menu with ADS + Melee.
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Welcome Screen](./screenshots/welcome-screen.png)
 
