@@ -127,15 +127,14 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 ## Credits
 
 * **Rainy City** - IW4x .GSC trickshot menu development, edits, testing, organization, and release.
-* **SyndiShanX** - creator of the **Synergy MW2 GSC Menu**. Synergy was a major learning reference for this project, especially for understanding IW4x/GSC menu structure, dvars, functions, and implementation patterns.
-* **ineedbots / Bot Warfare** - creator/community behind **IW4 Bot Warfare**, including the bot system, waypoint/scriptdata foundation, and related bot support used for this setup.
+* **SyndiShanX** - creator of the **Synergy MW2 GSC Menu**. Portions of this project were adapted from or directly based on Synergy MW2 GSC Menu code, including some submenu structure and implementation patterns. Synergy was also a major learning reference for IW4x/GSC menu structure, dvars, functions, and general implementation.
+* **ineedbots / Bot Warfare** - creator/community behind Bot Warfare, including the bot system, waypoint/scriptdata foundation, and related bot support used for this setup.
 * **IW4x community** - client, documentation, testing knowledge, and modding resources.
-
 
 ## License
 
-This project is released under the GNU General Public License v3.0.
+This project is released under the **GNU General Public License v3.0**.
 
-This menu is open source for learning, private match use, and community modding. You are free to study, modify, and build from this project as long as you follow the GPLv3 license terms and keep derivative work open source under a compatible license.
+This menu is open source for learning, private match use, and community modding. You are free to study, modify, redistribute, and build from this project as long as you follow the GPLv3 license terms and keep derivative work open source under a compatible license.
 
-Do not sell this menu or claim the work of credited creators as your own.
+Some portions of this project were adapted from GPLv3-licensed projects, including Synergy MW2 GSC Menu. Do not sell this menu or claim the work of credited creators as your own.
