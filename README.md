@@ -52,9 +52,26 @@ This menu was designed primarily with controller use in mind, but keyboard/mouse
 
 The full on-screen menu is host-only. Other players may be able to join the private match, but the host controls the main menu.
 
+## Quick Binds
+
+Some features can be triggered without opening the menu.
+
+| Action                   | Input                       |
+| ------------------------ | --------------------------- |
+| Toggle Auto Refill Ammo  | Prone + D-pad Up            |
+| Save Position            | Prone + D-pad Down          |
+| Load Position            | Crouch + D-pad Down         |
+| Can Swap Bind            | Standing + D-pad Up         |
+| Toggle UFO Mode          | Standing + ADS + D-pad Down |
+| Toggle TS Aimbot         | Crouch + D-pad Up           |
+| Spawn Trickshot Platform | Crouch + D-pad Left         |
+
+Some quick binds only work when the related feature is enabled from the menu first.
+
+
 ### Controller Notes
 
-Controller is the recommended way to use this menu. The menu was built around controller-style navigation, especially D-pad movement and stance-based quick binds.
+Controller is the recommended way to use this menu. The menu was built around controller-style navigation for trickshotting, especially D-pad movement and stance-based quick binds.
 
 ### Keyboard/Mouse Notes
 
