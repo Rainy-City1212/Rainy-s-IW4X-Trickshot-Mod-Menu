@@ -46,7 +46,7 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 9. Open the menu with ADS + Melee.
 
 >[!NOTE]
->If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder. Also, do not copy the entire mod-files folder into userraw. Only copy the three items listed above: scripts, scriptdata, and z_svr_bots.iwd.
+>If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder. Also, do not paste the entire mod-files folder into userraw. Only paste the three items listed above: scripts, scriptdata, and z_svr_bots.iwd.
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Welcome Screen](./screenshots/welcome-screen.png)
 
